@@ -1,4 +1,4 @@
-<p align="center"><img width='150px' src='' />
+
 <h1 align="center">TrybeWallet</h1>  </p>
 
  <h2 align="center">GitHub Pages:</h2>
