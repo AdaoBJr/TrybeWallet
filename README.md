@@ -1,4 +1,4 @@
-<p align="center"><img width='150px' src='https://img-premium.flaticon.com/png/512/4746/premium/4746753.png?token=exp=1627438482~hmac=f84c59b92a33025601af2984da149cce' />
+<p align="center"><img width='150px' src='' />
 <h1 align="center">TrybeWallet</h1>  </p>
 
  <h2 align="center">GitHub Pages:</h2>
