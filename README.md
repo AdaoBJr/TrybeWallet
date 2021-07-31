@@ -1,5 +1,6 @@
 
 <h1 align="center">TrybeWallet</h1>  </p>
+<p align="center"><img width='150px' src='https://github.com/AdaoBJr/TrybeWallet/blob/master/src/files/images/work7.png' />
 
  <h2 align="center">GitHub Pages:</h2>
  
