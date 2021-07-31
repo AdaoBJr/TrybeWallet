@@ -4,7 +4,7 @@
  <h2 align="center">GitHub Pages:</h2>
  
  <div align="center">
-   <a href="http://adaobjr.github.io/TrybeWallet/" target="_blank">
+   <a href="https://adaobjr.github.io/TrybeWallet/" target="_blank">
     <img width='100px' src='https://image.flaticon.com/icons/png/512/5222/5222347.png' target="_blank" />
  </div>
  
